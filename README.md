@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00ff99&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00ff99&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00ff99&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=WiredDroid&label=Profile+Views&color=00ff99&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/WiredDroid?style=for-the-badge&color=00ff99&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/WiredDroid?style=for-the-badge&color=00ff99&labelColor=000000" />
 </p>
 
 </div>
@@ -71,9 +71,9 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiredDroid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiredDroid&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -83,7 +83,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=WiredDroid&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -93,7 +93,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WiredDroid&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -103,7 +103,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WiredDroid&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
