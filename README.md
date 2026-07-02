@@ -4,7 +4,7 @@
 
 ### Cybersecurity Enthusiast • Ethical Hacker • Python Developer • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#FF0000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=WiredDroid&label=Profile+Views&color=00ff99&style=for-the-badge" />
@@ -67,18 +67,6 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WiredDroid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiredDroid&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -94,16 +82,6 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiredDroid&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WiredDroid&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -155,6 +133,6 @@ https://github.com/WiredDroid
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FF99&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Stay+Secure!;See+You+Again!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=#FF0000&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Stay+Secure!;See+You+Again!" />
 
 </div>
