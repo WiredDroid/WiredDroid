@@ -142,9 +142,9 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 # 📫 Connect
 
-### GitHub
+### Email
 
-https://github.com/WiredDroid
+--> wireddroidd@gmail.com
 
 ---
 
