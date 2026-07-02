@@ -4,7 +4,7 @@
 
 ### Cybersecurity Enthusiast • Ethical Hacker • Python Developer • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=#FF0000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=WiredDroid&label=Profile+Views&color=00ff99&style=for-the-badge" />
@@ -62,7 +62,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kali" />
+<img src="https://skillicons.dev/icons?i=docker,linux" />
 </p>
 
 ---
@@ -70,9 +70,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=WiredDroid&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=WiredDroid&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,9 +78,7 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WiredDroid&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WiredDroid&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -133,6 +129,6 @@ https://github.com/WiredDroid
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=#FF0000&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Stay+Secure!;See+You+Again!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF0000&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Stay+Secure!;See+You+Again!" alt="Typing SVG" />
 
 </div>
