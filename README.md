@@ -6,12 +6,35 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacking+%7C+Cybersecurity;Python+Developer;Automation+Engineer;Always+Learning+Something+New" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=WiredDroid&label=Profile+Views&color=00ff99&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/WiredDroid?style=for-the-badge&color=00ff99&labelColor=000000" />
-<img src="https://img.shields.io/github/stars/WiredDroid?style=for-the-badge&color=00ff99&labelColor=000000" />
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=WiredDroid&label=Profile%20Views&color=00ff99&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/WiredDroid?label=Followers&style=for-the-badge&color=00ff99&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/Public%20Repositories-View-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
+<p align="center">
+
+<a href="https://youtube.com/@WiredDroid">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/wireddroid">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/WiredDroid">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://t.me/WiredDroid">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 </div>
 
 ---
