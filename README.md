@@ -132,14 +132,6 @@ I enjoy solving technical challenges, exploring new technologies, and creating s
 
 ---
 
-# 🌟 Philosophy
-
-> **"Knowledge grows when it is shared."**
-
-> **"Learn. Build. Secure. Repeat."**
-
----
-
 # 📫 Connect
 
 ### Email
